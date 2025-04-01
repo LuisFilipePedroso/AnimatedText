@@ -6,5 +6,7 @@ Built this little project to experiment with text renderer and gradient text ani
 
 <img src="https://github.com/user-attachments/assets/4f365a6c-b756-49ea-af58-77ec6883a374" width="300" />
 
-https://github.com/user-attachments/assets/08643dbe-ca45-48ac-ae23-dc7516cb131e
+https://github.com/user-attachments/assets/1a052647-186a-4b3a-8af7-c6554201e0a0
+
+
 
